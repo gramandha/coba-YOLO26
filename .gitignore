@@ -1,0 +1,6 @@
+.venv/
+yolo26/
+datasets/
+runs/
+__pycache__/
+*.pt
